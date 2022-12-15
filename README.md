@@ -1,1 +1,1 @@
-Hello, Hexlet!
+Haskell Curry
